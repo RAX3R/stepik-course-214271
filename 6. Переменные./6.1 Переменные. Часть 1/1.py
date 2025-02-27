@@ -1,0 +1,3 @@
+nickname = "Малёк"
+
+print(nickname)
